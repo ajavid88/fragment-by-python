@@ -1,0 +1,22 @@
+{
+  "fragment_length": [
+    "5-10",
+    "20-40"
+  ],
+  "fragment_interval": [
+    "10-20",
+    "20-30"
+  ],
+  "server_name": [
+    "www.google.com",
+    "www.microsoft.com"
+  ],
+  "dns_server_url": [
+    "https://dns.google/dns-query",
+    "https://cloudflare-dns.com/dns-query"
+  ],
+  "websites_to_test": [
+    "https://www.google.com",
+    "https://www.youtube.com"
+  ]
+}
